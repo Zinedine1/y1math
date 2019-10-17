@@ -2,7 +2,7 @@
 # http://www.asciitable.com/
 
 for i in range(26):
-  print(ord('A') + i, end=' ')
+  print(ord('A') + i, end=' c')
 
 # check
 print()
